@@ -1,0 +1,394 @@
+[
+{
+    "pk": "AK", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Alaska"
+    }
+},
+{
+    "pk": "AL", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Alabama"
+    }
+},
+{
+    "pk": "AR", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Arkansas"
+    }
+},
+{
+    "pk": "AS", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "American Samoa"
+    }
+},
+{
+    "pk": "AZ", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Arizona"
+    }
+},
+{
+    "pk": "CA", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "California"
+    }
+},
+{
+    "pk": "CO", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Colorado"
+    }
+},
+{
+    "pk": "CT", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Connecticut"
+    }
+},
+{
+    "pk": "DC", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "District of Columbia"
+    }
+},
+{
+    "pk": "DE", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Delaware"
+    }
+},
+{
+    "pk": "FL", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Florida"
+    }
+},
+{
+    "pk": "GA", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Georgia"
+    }
+},
+{
+    "pk": "GU", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Guam"
+    }
+},
+{
+    "pk": "HI", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Hawaii"
+    }
+},
+{
+    "pk": "IA", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Iowa"
+    }
+},
+{
+    "pk": "ID", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Idaho"
+    }
+},
+{
+    "pk": "IL", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Illinois"
+    }
+},
+{
+    "pk": "IN", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Indiana"
+    }
+},
+{
+    "pk": "KS", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Kansas"
+    }
+},
+{
+    "pk": "KY", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Kentucky"
+    }
+},
+{
+    "pk": "LA", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Louisiana"
+    }
+},
+{
+    "pk": "MA", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Massachusetts"
+    }
+},
+{
+    "pk": "MD", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Maryland"
+    }
+},
+{
+    "pk": "ME", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Maine"
+    }
+},
+{
+    "pk": "MI", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Michigan"
+    }
+},
+{
+    "pk": "MN", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Minnesota"
+    }
+},
+{
+    "pk": "MO", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Missouri"
+    }
+},
+{
+    "pk": "MP", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Commonwealth of the Northern Mariana Islands"
+    }
+},
+{
+    "pk": "MS", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Mississippi"
+    }
+},
+{
+    "pk": "MT", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Montana"
+    }
+},
+{
+    "pk": "NC", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "North Carolina"
+    }
+},
+{
+    "pk": "ND", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "North Dakota"
+    }
+},
+{
+    "pk": "NE", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Nebraska"
+    }
+},
+{
+    "pk": "NH", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "New Hampshire"
+    }
+},
+{
+    "pk": "NJ", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "New Jersey"
+    }
+},
+{
+    "pk": "NM", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "New Mexico"
+    }
+},
+{
+    "pk": "NV", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Nevada"
+    }
+},
+{
+    "pk": "NY", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "New York"
+    }
+},
+{
+    "pk": "OH", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Ohio"
+    }
+},
+{
+    "pk": "OK", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Oklahoma"
+    }
+},
+{
+    "pk": "OR", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Oregon"
+    }
+},
+{
+    "pk": "PA", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Pennsylvania"
+    }
+},
+{
+    "pk": "PR", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Puerto Rico"
+    }
+},
+{
+    "pk": "RI", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Rhode Island"
+    }
+},
+{
+    "pk": "SC", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "South Carolina"
+    }
+},
+{
+    "pk": "SD", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "South Dakota"
+    }
+},
+{
+    "pk": "TN", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Tennessee"
+    }
+},
+{
+    "pk": "TX", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Texas"
+    }
+},
+{
+    "pk": "UT", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Utah"
+    }
+},
+{
+    "pk": "VA", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Virginia"
+    }
+},
+{
+    "pk": "VI", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "United States Virgin Islands"
+    }
+},
+{
+    "pk": "VT", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Vermont"
+    }
+},
+{
+    "pk": "WA", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Washington"
+    }
+},
+{
+    "pk": "WI", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Wisconsin"
+    }
+},
+{
+    "pk": "WV", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "West Virginia"
+    }
+},
+{
+    "pk": "WY", 
+    "model": "tastypie_search.usstate", 
+    "fields": {
+        "name": "Wyoming"
+    }
+}
+]
