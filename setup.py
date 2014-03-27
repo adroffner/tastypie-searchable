@@ -31,7 +31,7 @@ setup(name='django-tastypie-searchable',
           'License :: OSI Approved :: MIT License',
           'Natural Language :: English',
           'Operating System :: OS Independent',
-          'Programming Language :: Python :: 2.6',
+          ## 'Programming Language :: Python :: 2.6', # import importlib in signals.py is 2.7 or greater.
           'Programming Language :: Python :: 2.7',
           ],
      )
