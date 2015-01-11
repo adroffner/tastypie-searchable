@@ -8,7 +8,7 @@ try:
 except ImportError:
     from distutils.core import setup
 
-from tastypie_searchable import __version__
+from tastypie_search import __version__
 
 readme = open('README.md', 'r')
 README_TEXT = readme.read()
@@ -23,9 +23,9 @@ setup(name='django-tastypie-searchable',
       author_email='adroffner@gmail.com',
       url='https://github.com/adroffner/tastypie-searchable',
       download_url='',
-      packages=['tastypie_searchable', ],
+      packages=['tastypie_search', ],
       ## scripts=[''],
-      requires=[
+      install_requires=[
           'django>=1.5',
           'django-haystack>=2.0',
           'queued_search',
