@@ -1,0 +1,7 @@
+include *.txt
+recursive-include *.py
+include INSTALLATION
+include LICENSE
+include README.md
+prune examples/sample?/build
+

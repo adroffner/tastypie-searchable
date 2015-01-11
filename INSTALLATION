@@ -1,0 +1,27 @@
+INSTALLATION
+============
+
+1. Install tastypie-searchable using pip or easy_install.
+	NOTE: The dependencies should be installed, but not configured automatically.
+
+$ pip install tastypie-searchable
+
+2. Install & configure the dependencies in your django server as directed.
+	a) django-tastypie - Tastypie REST APIs
+		https://django-tastypie.readthedocs.org/en/latest/tutorial.html#installation
+	b) django-haystack 2.X - Haystack Full-Text Search version 2.X 
+		http://django-haystack.readthedocs.org/en/latest/tutorial.html
+	c) queued_search - Haystack Signal Processing Queue
+		TODO: Installation...
+
+3. Temporarily, add "tastypie_searchable.sample_app" to INSTALLED_APPS.
+
+This lets you try the sample application & run the unittest suite.
+
+Run Unit Tests
+==============
+
+Run the unittest suite to prove this works with your versions of django & tastypie.
+
+$ python manage.py test tastypie_searchable.tests
+
