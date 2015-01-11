@@ -1,6 +1,6 @@
-""" Tastypie Searchable via Haystack
+""" Tastypie Searchable ModelResource Objects
 
-Tastypie Full-Text Searchable ModelResource via Haystack
+Tastypie Full-Text Searchable ModelResource using Haystack
 """
 
 __version__ = '0.01'

@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 #
-# Tastypie Searchable via Haystack
+# Tastypie Searchable ModelResource Objects
 # ======================================================================
 try:
     # Allow Python eggs bdist_egg
@@ -17,7 +17,7 @@ readme.close()
 setup(name='django-tastypie-searchable',
       version=__version__,
       license='MIT Licensed',
-      description='Tastypie Full-Text Searchable ModelResource via Haystack',
+      description='Tastypie Full-Text Searchable ModelResource using Haystack',
       long_description=README_TEXT,
       author='Andrew Droffner',
       author_email='adroffner@gmail.com',
@@ -36,9 +36,8 @@ setup(name='django-tastypie-searchable',
           'License :: OSI Approved :: MIT License',
           'Natural Language :: English',
           'Operating System :: OS Independent',
-          'Programming Language :: Python :: 2.6',
+          ## 'Programming Language :: Python :: 2.6', # import importlib in signals.py is 2.7 or greater.
           'Programming Language :: Python :: 2.7',
           ],
      )
-
 
